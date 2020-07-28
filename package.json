@@ -1,0 +1,20 @@
+{
+  "name": "asincronia",
+  "version": "1.0.0",
+  "description": "aprendiendo asincronia en Js",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node /home/lc4sbl4d0n/desarrolloJs/asincronia/callback/index.js"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "asnync",
+    "await"
+  ],
+  "author": "LucasBlandon",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
